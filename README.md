@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-[HTTPX](https://www.python-httpx.org/) is a modern HTTP client for Python that aims to provide a more enjoyable and powerful experience for making HTTP requests. It was created to add support for asynchronous programming and has quickly gained popularity in the Python community due to its feature-rich API and good performance. In this article, we will compare HTTPX to two other popular HTTP clients for Python: Requests and AIOHTTP.
+[HTTPX](https://www.python-httpx.org/) is a modern HTTP client for Python that aims to provide a more enjoyable and powerful experience for making HTTP requests. It was created to add support for asynchronous programming and has quickly gained popularity in the Python community due to its feature-rich API and good performance. In this article, we'll compare HTTPX to two other popular HTTP clients for Python: Requests and AIOHTTP.
 
 See the full overview in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp) where we delve deeper into each library.
 
@@ -23,7 +23,7 @@ See this comparison table of the key differences between the requests and httpx 
 | HTTP/2 support      | ❌         | ✅     |
 | Automatic decoding  | ✅         | ✅     |
 | Size                | ✅         | ❌     |
-| Performance         | ❌         | ✅     |
+| Performance         | ✅         | ✅🚀   |
 
 Before running the below examples, open up your terminal and install the required libraries:
 ```bash
