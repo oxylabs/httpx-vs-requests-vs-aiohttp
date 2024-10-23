@@ -47,7 +47,7 @@ print(response.text)
 Alternatively, you can create an `httpx` client object and use its `get` method:
 ```python
 client = httpx.Client()
-response = httpx.get("https://example.com")
+response = client.get("https://example.com")
 ```
 
 If you want to send a `POST` request using the requests library, use the post method instead of get as follows:
