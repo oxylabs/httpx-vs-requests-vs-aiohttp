@@ -29,7 +29,7 @@ See this comparison table of the key differences between the requests and httpx 
 
 Before running the below examples, open up your terminal and install the required libraries:
 ```bash
-python -m pip install requests httpx aiohttp asyncio
+python -m pip install requests httpx aiohttp
 ```
 
 Below are syntax differences between the two. The following code uses the Requests library to send a GET request:
