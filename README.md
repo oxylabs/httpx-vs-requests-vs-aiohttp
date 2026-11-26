@@ -1,8 +1,8 @@
 # HTTPX vs Requests vs AIOHTTP
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=httpx-vs-requests-vs-aiohttp-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&utm_campaign=banner&groupid=877)
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
@@ -10,7 +10,7 @@
 
 [HTTPX](https://www.python-httpx.org/) is a modern HTTP client for Python that aims to provide a more enjoyable and powerful experience for making HTTP requests. It was created to add support for asynchronous programming and has quickly gained popularity in the Python community due to its feature-rich API and good performance. In this article, we'll compare HTTPX to two other popular HTTP clients for Python: Requests and AIOHTTP.
 
-See the full overview in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp) where we delve deeper into each library.
+See the full overview in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877) where we delve deeper into each library.
 
 - [How HTTPX compares to the Requests module](#how-httpx-compares-to-the-requests-module)
 - [An overview of AIOHTTP](#an-overview-of-aiohttp)
@@ -138,10 +138,10 @@ async def main():
 asyncio.run(main())
 ```
 
-If you want to learn more about AIOHTTP, we highly recommend reading [Asynchronous Web Scraping with AIOHTTP](https://oxylabs.io/blog/asynchronous-web-scraping-python-aiohttp).
+If you want to learn more about AIOHTTP, we highly recommend reading [Asynchronous Web Scraping with AIOHTTP](https://oxylabs.io/blog/asynchronous-web-scraping-python-aiohttp?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877).
 
 ## HTTPX vs AIOHTTP
-See the complete comparison in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp#httpx-vs-aiohttp). The major differences of HTTPX and AIOHTTP can be summed up with this table:
+See the complete comparison in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877). The major differences of HTTPX and AIOHTTP can be summed up with this table:
 
 | Feature         | HTTPX       | AIOHTTP  |
 | :------------- | :-------------:| :-----:|
@@ -218,6 +218,6 @@ Ultimately, the choice of an HTTP client library will depend on the specific nee
 
 It's worth noting that HTTPX and AIOHTTP are not the only options for making HTTP requests in Python. Many other libraries are available, each with its own features and trade-offs. Some other popular choices include http.client, urllib3, and httplib2.
 
-Also, if you would like to try an all-in-one web scraping solution, check our [Web Scraper API](https://oxylabs.io/products/scraper-api/web) to gather real-time public information from most websites. Claim your **7-day free trial** and see for yourself whether it fits your needs.
+Also, if you would like to try an all-in-one web scraping solution, check our [Web Scraper API](https://oxylabs.io/products/scraper-api/web?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877) to gather real-time public information from most websites. Claim your **7-day free trial** and see for yourself whether it fits your needs.
 
 
