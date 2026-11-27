@@ -141,7 +141,7 @@ asyncio.run(main())
 If you want to learn more about AIOHTTP, we highly recommend reading [Asynchronous Web Scraping with AIOHTTP](https://oxylabs.io/blog/asynchronous-web-scraping-python-aiohttp?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877).
 
 ## HTTPX vs AIOHTTP
-See the complete comparison in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877). The major differences of HTTPX and AIOHTTP can be summed up with this table:
+See the complete comparison in our [blog post](https://oxylabs.io/blog/httpx-vs-requests-vs-aiohttp?utm_source=github&utm_medium=referral&utm_content=httpx-vs-requests-vs-aiohttp&groupid=877#httpx-vs-aiohttp). The major differences of HTTPX and AIOHTTP can be summed up with this table:
 
 | Feature         | HTTPX       | AIOHTTP  |
 | :------------- | :-------------:| :-----:|
